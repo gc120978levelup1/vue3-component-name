@@ -1,4 +1,4 @@
-# Vue3 Camera QR Code Reader for Laravel + Vue + ShadCn projects
+# Vue3 Component Template for Laravel + Vue + ShadCn projects
 
 Template for bundling Vue3 compoenent to npm package manager
 
